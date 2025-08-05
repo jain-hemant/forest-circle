@@ -1,0 +1,12 @@
+### Hemant Jain
+POST http://localhost:3000/api/auth/login
+Content-Type: "application/json" 
+
+{
+    "email":"hemantjain1321@gmail.com",
+    "password":"Test@1214"
+}
+
+### test
+GET http://localhost:3000/api/test
+Content-Type: "application/json" 

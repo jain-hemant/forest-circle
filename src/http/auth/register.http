@@ -1,0 +1,11 @@
+### Hemant Jain
+POST http://localhost:3000/api/auth/register
+Content-Type: "application/json" 
+
+{
+    "firstName":"Hemant",
+    "lastName":"Jain",
+    "email":"hemantjain1321@gmail.com",
+    "password":"Test@1214",
+    "designation":"AP"
+}
